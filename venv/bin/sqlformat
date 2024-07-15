@@ -1,4 +1,4 @@
-#!/home/san/DRF_django/rest_simple/venv/bin/python3
+#!/home/san/drf/rest_simple_Django_Rest_Framework/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
